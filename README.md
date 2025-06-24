@@ -20,7 +20,7 @@ The files are organized into folders based on topics or principles applied for c
 - `ArrayChallengeOOP/` – Java challenges focused on arrays and sorting
 - `inheritance/` – A console-based application demonstrating inheritance, encapsulation, and object manipulation
 - `SOLID-Principles/` – Demonstration of SOLID principles using a LawLink client system
-- Standalone `.java` files – Simple exercises and class-based challenges (e.g., `Greeter.java`, `Variables.java`, etc.)
+- Standalone `.java` files – Simple exercises and class-based challenges (e.g., `Account.java`, `createaccount.java`, etc.)
 
 ---
 
