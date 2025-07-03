@@ -18,6 +18,7 @@ The files are organized into folders based on topics or principles applied for c
 ## 🗂️ Folder & File Structure
 
 - `ArrayChallengeOOP/` – Java challenges focused on arrays and sorting
+- `ExceptionHandlingOOP/` – Code focused on examples of exception handling
 - `inheritance/` – A console-based application demonstrating inheritance, encapsulation, and object manipulation
 - `SOLID-Principles/` – Demonstration of SOLID principles using a LawLink client system
 - Standalone `.java` files – Simple exercises and class-based challenges (e.g., `Account.java`, `createaccount.java`, etc.)
